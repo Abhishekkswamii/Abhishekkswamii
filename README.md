@@ -262,13 +262,7 @@ Bonus = DevOps & Cloud Tech
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic&author=Abhishek%20Swami" alt="Quote" />
 
 </div>
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekkswamii&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B35&point=FFFFFF" alt="Contribution Graph" width="100%" />
-</div>
 
 <!-- Animated Contribution Snake -->
 <div align="center">

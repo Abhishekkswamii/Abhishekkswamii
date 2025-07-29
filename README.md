@@ -174,49 +174,94 @@ Bonus = DevOps & Cloud Tech
 
 ## 🚀 Current Focus Areas
 
-```python
-class AbhishekSwami:
-    def __init__(self):
-        self.current_learning = [
-            "Advanced React Patterns",
-            "Microservices Architecture", 
-            "AI/ML Model Deployment",
-            "Cloud-Native Development",
-            "System Design Principles"
-        ]
-        
-        self.working_on = [
-            "🤖 AI-Powered Development Tools",
-            "🏠 Smart Home IoT Solutions", 
-            "📊 Data Visualization Dashboards",
-            "🔐 Cybersecurity Tools",
-            "🌐 Scalable Web Applications"
-        ]
-        
-        self.goals_2025 = [
-            "Contribute to major open-source projects",
-            "Build production-ready SaaS applications",
-            "Master cloud architecture patterns",
-            "Launch personal tech blog",
-            "Mentor upcoming developers"
-        ]
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Coffee + Planning",
-            "day": "💻 Coding + Learning", 
-            "evening": "📚 Reading + Research",
-            "night": "🚀 Side Projects"
-        }
-        
-    def current_mood(self):
-        return "Ready to build the future! 🚀"
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line">
+</div>
 
-# Initialize
-developer = AbhishekSwami()
-print(f"Status: {developer.current_mood()}")
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+<!-- Focus Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=50&section=header&text=What%20I%27m%20Working%20On&fontSize=18&fontColor=fff&animation=fadeIn" alt="Focus Header"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="left">
+
+### 📚 **LEARNING**
+![Learning](https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square&logo=book&logoColor=white)
+
+🔹 **Advanced React Patterns**  
+🔹 **Microservices Architecture**  
+🔹 **AI/ML Model Deployment**  
+🔹 **Cloud-Native Development**  
+🔹 **System Design Mastery**
+
+</td>
+<td width="33%" align="left">
+
+### 🛠️ **BUILDING**
+![Building](https://img.shields.io/badge/Status-In%20Progress-FF6B35?style=flat-square&logo=hammer&logoColor=white)
+
+🤖 **AI Development Tools**  
+🏠 **Smart IoT Solutions**  
+📊 **Data Visualization**  
+🔐 **Cybersecurity Tools**  
+🌐 **Scalable Web Apps**
+
+</td>
+<td width="30%" align="left">
+
+### 🎯 **2025 GOALS**
+![Goals](https://img.shields.io/badge/Progress-75%25-00D4FF?style=flat-square&logo=target&logoColor=white)
+
+🌟 **Open Source Leadership**  
+🚀 **Production SaaS Launch**  
+☁️ **Cloud Architecture Expert**  
+✍️ **Tech Content Creator**  
+🤝 **Developer Mentorship**
+
+</td>
+</tr>
+</table>
+
+<!-- Stats Cards -->
+<div align="center">
+<br>
+
+![Coffee](https://img.shields.io/badge/Powered%20by-Coffee%20%E2%98%95-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=black)
+![Curiosity](https://img.shields.io/badge/Driven%20by-Curiosity%20%F0%9F%9A%80-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=black)
+![Innovation](https://img.shields.io/badge/Focused%20on-Innovation%20%E2%9C%A8-00D4FF?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=black)
+
+</div>
+
+<!-- Current Status -->
+<div align="center">
+<br>
+
+### 🔥 **CURRENT STATUS**
+
+```diff
++ 🎯 Preparing for GSSoC 2025
++ 🚀 Building next-gen web applications  
++ 🤖 Exploring AI integration patterns
++ ☁️ Mastering cloud deployment strategies
++ 📚 Contributing to open-source ecosystem
 ```
 
+</div>
+
+<!-- Motivational Quote Card -->
+<div align="center">
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20poetry%20written%20in%20logic&author=Abhishek%20Swami" alt="Quote" />
+
+</div>
 ---
 
 ## 📈 Contribution Graph
